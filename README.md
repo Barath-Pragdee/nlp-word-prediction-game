@@ -1,4 +1,4 @@
-*NLP-Based Word Prediction Game*
+# *NLP-Based Word Prediction Game*
 
 # Project Overview
 
